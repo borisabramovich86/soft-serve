@@ -645,6 +645,7 @@ We’d love to hear your thoughts on this project. Feel free to drop us a note!
 [MIT](https://github.com/charmbracelet/soft-serve/raw/main/LICENSE)
 
 ---
+---
 
 Part of [Charm](https://charm.sh).
 
